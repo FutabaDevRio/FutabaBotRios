@@ -62,4 +62,10 @@ Dashboard web (no creo)
 📜 Licencia
 MIT — Hacé lo que quieras con el código, pero no me eches la culpa si algo explota o no sirve.
 
-<p align="center"> <strong>⭐ ¿Te sirve? Dale una estrella. ⭐</strong> </p><p align="center"> <i>Hecho con 💻 y sueño por FutabaDevRio</i> </p> ```
+<p align="center">
+  <strong>⭐ ¿Te sirve? Dale una estrella. ⭐</strong>
+</p>
+
+<p align="center">
+  <i>Hecho con sueño por FutabaDevRio</i>
+</p>
