@@ -1,0 +1,66 @@
+{
+  "name": "futaba-rio-bot",
+  "version": "3.0.0",
+  "description": "Bot de WhatsApp Futaba Rio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "setup": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@hiudyy/ytdl": "^0.2.3",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "acrcloud": "^1.4.0",
+    "axios": "^1.6.7",
+    "better-sqlite3": "^8.5.3",
+    "canvas": "^3.0.0",
+    "cfonts": "^2.10.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0",
+    "figlet": "^1.8.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "form-data-encoder": "^4.0.2",
+    "formdata-node": "^6.0.3",
+    "fs-extra": "^11.2.0",
+    "google-libphonenumber": "^3.2.38",
+    "google-tts-api": "^2.0.2",
+    "hispamemes": "^1.0.7",
+    "lodash": "^4.17.21",
+    "lowdb": "^2.1.0",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.43",
+    "mongoose": "^6.2.1",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.6.12",
+    "node-webpmux": "^3.1.7",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0",
+    "savetubedl": "^3.0.0",
+    "sharp": "^0.33.4",
+    "util": "^0.12.4",
+    "wa-sticker-formatter": "^4.3.2",
+    "yargs": "^17.3.1",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.0.0"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "bot",
+    "whatsapp",
+    "baileys",
+    "futaba-rio"
+  ],
+  "author": "Diego",
+  "license": "MIT"
+}
