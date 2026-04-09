@@ -13,7 +13,8 @@
 grupos (inicialmente). 
 
 > ------------------
-
+👾 Canal De WhatsApp 👇🏻
+ https://whatsapp.com/channel/0029Vb7OQfAAInPsxtiLIx17
 ---
 
 ## 🚀 ¿Qué hace este bot?
