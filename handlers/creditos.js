@@ -36,7 +36,7 @@ module.exports = {
 
 💌 *Agradecimientos especiales:*
    • A todos los usuarios 💖
-   • Bryank P tremendo edit lanzaste crack
+   • FutabaTamo
 
 🔮 *"Ggs"*
 `;
